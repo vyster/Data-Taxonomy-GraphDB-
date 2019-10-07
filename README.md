@@ -1,4 +1,4 @@
-# Data-Taxonomy-GraphDB- VYODER.GITHUB.IO for the Jupyter Notebook of the CODE.
+# Visit VYODER.GITHUB.IO for the Jupyter Notebook of the Code.
 An end to end implementation for creating Graph Based Taxonomies from the AO MetaData [QUANTIPHI INC.] Mumbai
 
 
