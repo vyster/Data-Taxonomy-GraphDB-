@@ -1,4 +1,4 @@
-# Visit VYODER.GITHUB.IO for the Jupyter Notebook of the Code.
+# Visit vyoder.github.io for the Jupyter Notebook of the Code.
 An end to end implementation for creating Graph Based Taxonomies from the AO MetaData [QUANTIPHI INC.] Mumbai
 
 
