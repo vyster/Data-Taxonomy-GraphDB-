@@ -41,8 +41,6 @@ Neo$j to store and access the Data
 Cypher to query.
 
 
-
-
 ## Breaking it down step by step.
 
 ### Q.1. What do we mean by Creating a Taxonomy?
