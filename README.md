@@ -12,7 +12,7 @@ An end to end implementation for creating Graph Based Taxonomies from the AO Met
   <a href="#license">Code</a> •
     <a href="#license">EndNote</a>
 </p> </h4>
-...
+.
 ***
 
 
